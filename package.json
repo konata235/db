@@ -1,0 +1,14 @@
+{
+  "name": "aliyun-db-vercel",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.6.0",
+    "dotenv": "^16.0.3"
+  },
+  "engines": {
+    "node": ">=14.x"
+  }
+}
